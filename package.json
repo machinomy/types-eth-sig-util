@@ -1,6 +1,6 @@
 {
   "name": "@machinomy/types-eth-sig-util",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "TypeScript declaration for eth-sig-util",
   "main": "index.d.ts",
   "types": "index.d.ts",
