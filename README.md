@@ -2,5 +2,5 @@
 
 # Installation
 ```
-yarn add https://github.com/machinomy/types-eth-sig-util -D
+yarn add @machinomy/types-eth-sig-util -D
 ```
